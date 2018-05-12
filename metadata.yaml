@@ -1,0 +1,37 @@
+_repo: An-Alphabet-of-History_39626
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Young, Ellsworth
+    gutenberg_agent_id: '40121'
+    url: http://www.gutenberg.org/2009/agents/40121
+covers:
+- cover_type: archival
+  image_path: 39626-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Nesbit, Wilbur D. (Wilbur Dick)
+    birthdate: 1871
+    deathdate: 1927
+    gutenberg_agent_id: '40120'
+    url: http://www.gutenberg.org/2009/agents/40120
+description: ''
+gutenberg_issued: '2012-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39626'
+  lccn: 05029559
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Biographical poetry'
+- !lcsh 'Alphabets'
+tableOfContents: Alexander the Great -- Brutus -- Christopher Columbus -- Diogenes
+  -- Euripides -- Franklin -- Galilei Galileo -- Hippocrates -- Iago -- Jonson --
+  Kidd -- Lucullus -- Methuselah -- Newton -- Omar -- Pepys -- Quintilian -- Raleigh
+  -- Shakspeare -- Tell -- Ulysses -- Villon -- Watt -- Xantippe -- Yvetot -- Zenobia.
+title: An Alphabet of History
+url: http://www.gutenberg.org/ebooks/39626
